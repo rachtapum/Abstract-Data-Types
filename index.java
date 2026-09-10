@@ -1,4 +1,4 @@
-public class IntegerSetTest {
+public class Index {
     public static void main(String[] args) {
         // Test 1: การสร้าง, เพิ่มข้อมูล, และการเรียงลำดับ
         Integerset a = new Integerset();
