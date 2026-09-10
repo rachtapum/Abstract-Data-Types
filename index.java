@@ -1,7 +1,7 @@
 public class Index {
     public static void main(String[] args) {
         // Test 1: การสร้าง, เพิ่มข้อมูล, และการเรียงลำดับ
-        Integerset a = new Integerset();
+        Index a = new Index();
         a.add(10);
         a.add(20);
         a.add(40);
